@@ -1,2 +1,4 @@
-Good morning
-Good afternoon
+Computer,890.50
+Cell Phone,750.00
+IPhone X,910.00
+Tablet,550.00
